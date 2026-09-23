@@ -16,7 +16,3 @@ Repositorio con las memorias de las prácticas del módulo de aplicaciones web
 --------|
 | 1  | Introducción a HTML básico | [Ver 
 Memoria] (./practica-01-html-basico/memoria.md) |
-| 2  | CSS y Flexbox               | [ Ver
-Memoria] (./practica-02-css-flexbox/memoria.md) |
-| 3  | Formularios Web             | [ Ver
-memoria] (./practica-03-formularios/memoria.md) |
