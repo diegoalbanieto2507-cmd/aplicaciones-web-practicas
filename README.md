@@ -12,7 +12,5 @@ Repositorio con las memorias de las prácticas del módulo de aplicaciones web
 
 | Nº | Práctica                  | Memoria
 |
-|----|----------------------------|-----------------------------------|
---------|
-| 1  | Introducción a HTML básico | [Ver 
-Memoria] (Práctica-01.md) |
+|----|----------------------------|-----------------------------------|--------|
+| 1  | Introducción a HTML básico | [Ver Memoria] (Práctica-01.md) |
