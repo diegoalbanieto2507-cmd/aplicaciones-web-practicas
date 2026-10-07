@@ -54,3 +54,13 @@ Sí, porque no corta conexiones
 
 
 [Captura contenido /etc/apache2](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-07%2010-13-46.png)
+
+**¿Por qué Apache usa enlaces simbólicos entre los directorios -avaliable y enable?**
+Porque son los que se pueden usar en ese momento
+
+## APARTADO 6
+
+**¿Que contenido tiene el fichero?**
+[Contenido del fichero](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-07%2010-30-54.png)
+### APARTADO 6.1
+
