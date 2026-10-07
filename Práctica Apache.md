@@ -30,3 +30,6 @@
 |a2enmod / a2dismod             |Activa y desactiva módulos                    |
 |a2ensite / a2dissite           |Activa y desactiva sitios                     |
 |a2enconf / a2disconf           |Activa y desactiva fragmentos de configutación|
+
+**¿Cuándo conviene usar reload en lugar de restart?**
+Sí, porque no corta conexiones
