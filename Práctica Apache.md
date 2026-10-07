@@ -16,6 +16,8 @@
 ### APARTADO 3.4
 **¿Qué diferencia hay entre los perfiles Apache, Apache Full y Apache Secure?**
 
+## APARTADO 4
+
 |Comando                        | Función                                      |
 |-------------------------------|----------------------------------------------|
 |sudo systemctl start apache2   |Inicia Apache                                 |
@@ -33,3 +35,7 @@
 
 **¿Cuándo conviene usar reload en lugar de restart?**
 Sí, porque no corta conexiones
+
+## APARTADO 5
+
+[Captura contenido](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-07%2010-13-46.png)
