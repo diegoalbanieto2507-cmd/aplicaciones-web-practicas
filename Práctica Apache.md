@@ -15,3 +15,18 @@
 
 ### APARTADO 3.4
 **¿Qué diferencia hay entre los perfiles Apache, Apache Full y Apache Secure?**
+
+|Comando                        | Función                                      |
+|-------------------------------|----------------------------------------------|
+|sudo systemctl start apache2   |Inicia Apache                                 |
+|sudo systemctl stop apache2    |Para Apache                                   | 
+|sudo systemctl restart apache2 |Reinicia Apache                               |
+|sudo systemctl reload apache2  |Recarga Apache                                |
+|sudo systemctl enable apache2  |Inicia Apache automáticamente                 |
+|sudo systemctl disable apache2 |Desactiva arranque automático                 |
+|apache2ctl configtest          |Comprueba la configuración                    |
+|apache2ctl -S                  |Muestra los host cargados                     |
+|apache2ctl -M                  |Lista módulos cargados                        |
+|a2enmod / a2dismod             |Activa y desactiva módulos                    |
+|a2ensite / a2dissite           |Activa y desactiva sitios                     |
+|a2enconf / a2disconf           |Activa y desactiva fragmentos de configutación|
