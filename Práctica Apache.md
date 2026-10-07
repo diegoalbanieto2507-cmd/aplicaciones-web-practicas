@@ -64,5 +64,10 @@ Porque son los que se pueden usar en ese momento
 [Contenido del fichero](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-07%2010-30-54.png)
 ### APARTADO 6.1
 
-**¿Que hace la orden   "<h1>Servidor de TU NOMBRE</h1>" | sudo tee /var/www/html/index.html?**
+**¿Que hace la siguiente orden?**   
 cambiar de página web
+
+### APARTADO 6.2
+
+**¿Qué es un puerto? ¿Para qué sirve cambiar el puerto de escucha?** 
+Es una salida de un dispositivo
