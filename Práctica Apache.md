@@ -101,8 +101,8 @@ Es una salida de un dispositivo
 
 **644:** Archivos normales
 
-**Por qué nunca se deben usar permisos 777 en un servidor web** Porque pierde mucha seguridad
+**¿Por qué nunca se deben usar permisos 777 en un servidor web?** Porque pierde mucha seguridad
 
-**Por qué el contenido web no debe pertenecer a root ni ser escribible por todos** Por seguridad del servidor
+**¿Por qué el contenido web no debe pertenecer a root ni ser escribible por todos?** Por seguridad del servidor
 
 [📸 Captura del error 403 y del log correspondiente]()
