@@ -86,3 +86,9 @@ Es una salida de un dispositivo
 |Mod_alias             |Redirecciones y alias de rutas |
 |Mod_Status            |Página de estado del servidor  |
 |mod_auth_basic        |Autenticación Básica           |
+
+**¿Qué ocurre si desactivas un módulo del que depende otro?** Que el servidor no podrá reiniciarse
+
+## APARTADO 8
+
+[Captura de ambos sitios en el navegador y de la salida de apache2ctl -S.]()
