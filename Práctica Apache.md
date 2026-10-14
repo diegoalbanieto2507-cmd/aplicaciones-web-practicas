@@ -71,3 +71,7 @@ cambiar de página web
 
 **¿Qué es un puerto? ¿Para qué sirve cambiar el puerto de escucha?** 
 Es una salida de un dispositivo
+
+### APARTADO 6.5
+
+[📸 Captura de cada cambio funcionando]()
