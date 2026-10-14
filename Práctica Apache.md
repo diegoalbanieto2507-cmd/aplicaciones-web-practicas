@@ -74,4 +74,15 @@ Es una salida de un dispositivo
 
 ### APARTADO 6.5
 
-[📸 Captura de cada cambio funcionando]()
+[📸 Captura de cada cambio funcionando](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-14%2011-54-17.png)
+
+## APARTADO 7
+
+|Módulo                |Función                        |
+|----------------------|-------------------------------|
+|Mod_Rewrite           |Reescrituta de URL             |
+|Mod_Headers           |Manipulación de cabeceras HTTP |
+|Mod_dir               |Soporte HTTPS                  |
+|Mod_alias             |Redirecciones y alias de rutas |
+|Mod_Status            |Página de estado del servidor  |
+|mod_auth_basic        |Autenticación Básica           |
