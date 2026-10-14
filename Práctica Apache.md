@@ -105,4 +105,4 @@ Es una salida de un dispositivo
 
 **¿Por qué el contenido web no debe pertenecer a root ni ser escribible por todos?** Por seguridad del servidor
 
-[📸 Captura del error 403 y del log correspondiente]()
+[📸 Captura del error 403 y del log correspondiente](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-14%2012-47-15.png)
