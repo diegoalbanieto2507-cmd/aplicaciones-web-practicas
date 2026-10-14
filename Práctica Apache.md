@@ -91,4 +91,6 @@ Es una salida de un dispositivo
 
 ## APARTADO 8
 
-[Captura de ambos sitios en el navegador y de la salida de apache2ctl -S.]()
+[Captura de ambos sitios en el navegador y de la salida de apache2ctl -S.](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-14%2012-27-41.png)
+
+## APARTADO 9
