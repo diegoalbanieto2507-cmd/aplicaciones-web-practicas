@@ -94,3 +94,15 @@ Es una salida de un dispositivo
 [Captura de ambos sitios en el navegador y de la salida de apache2ctl -S.](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/Imagenes%20Apache/Captura%20de%202026-10-14%2012-27-41.png)
 
 ## APARTADO 9
+
+**Qué significan 755 y 644**
+
+**755:** Uso de directorios
+
+**644:** Archivos normales
+
+**Por qué nunca se deben usar permisos 777 en un servidor web** Porque pierde mucha seguridad
+
+**Por qué el contenido web no debe pertenecer a root ni ser escribible por todos** Por seguridad del servidor
+
+[📸 Captura del error 403 y del log correspondiente]()
