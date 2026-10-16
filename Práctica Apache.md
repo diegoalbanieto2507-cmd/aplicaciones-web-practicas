@@ -15,6 +15,7 @@
 
 ### APARTADO 3.4
 **¿Qué diferencia hay entre los perfiles Apache, Apache Full y Apache Secure?**
+La cantidad de numeros de puerto que tienen para permitir el tráfico
 
 ## APARTADO 4
 
