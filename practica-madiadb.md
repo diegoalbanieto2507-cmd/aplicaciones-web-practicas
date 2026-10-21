@@ -32,3 +32,5 @@ para saber si el problema es que MariaDB está parado?**
 **¿Por qué es peligroso dejar info.php en un servidor real?** Porque esa información la pueden ver desde fuera
 
 **¿Para qué sirve el paquete php-mysql?** Permite a PHP hablar con MariaDB
+
+### Diego Alba ###
