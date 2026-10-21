@@ -16,6 +16,16 @@
 
 [Captura del estado del servicio y de la entrada en MariaDB](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Sudo-Mariadb.png)
 
+## Apartado 4 ##
+
+|**Comando**                    |**Función**                                      |
+|-------------------------------|-------------------------------------------------|
+|sudo systemctl start mariadb   |Arranca el servicio                              |
+|sudo systemctl stop mariadb    |Detiene el servicio                              |
+|sudo systemctl restart mariadb |Reinicia el servidor                             |
+|sudo systemctl status mariadb  |Muestra su estado                                |
+|sudo systemctl enable mariadb  |Lo arranca automáticamente al encender el equipo |
+
 ## Apartado 5 ##
 
 [Captura del error](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Error2002.png)
