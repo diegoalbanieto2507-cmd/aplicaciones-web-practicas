@@ -28,3 +28,7 @@ para saber si el problema es que MariaDB está parado?**
 ## Apartado 6 ##
 
 [Captura de php -v, de los módulos y de la página info.php.](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/PHP-VERSION.png)
+
+**¿Por qué es peligroso dejar info.php en un servidor real?** Porque esa información la pueden ver desde fuera
+
+**¿Para qué sirve el paquete php-mysql?** Permite a PHP hablar con MariaDB
