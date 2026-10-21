@@ -12,6 +12,6 @@
 
 [Captura del estado del servicio y de la entrada en MariaDB](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Sudo-Mariadb.png)
 
-## Apartado 4 ##
+## Apartado 5 ##
 
-[]
+[Captura del error](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Error2002.png)
