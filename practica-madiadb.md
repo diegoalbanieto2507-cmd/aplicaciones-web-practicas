@@ -17,3 +17,10 @@
 [Captura del error](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Error2002.png)
 
 [Recuperacion](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Recuperacion%20del%20error.png)
+
+**Si WordPress no pudiera conectar con la base de datos, ¿qué dos comandos de este apartado usarías
+para saber si el problema es que MariaDB está parado?**
+
+1. sudo systemctl start mariadb
+
+2. sudo systemctl restart mariadb
