@@ -6,6 +6,12 @@
 
 ## Apartado 2 ##
 
+[Captura de la versión](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Version-mariadb.png)
+
 ## Apartado 3 ##
 
+[Captura del estado del servicio y de la entrada en MariaDB](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Sudo-Mariadb.png)
+
 ## Apartado 4 ##
+
+[]
