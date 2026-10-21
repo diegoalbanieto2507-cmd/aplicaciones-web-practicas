@@ -15,3 +15,4 @@
 ## Apartado 5 ##
 
 [Captura del error](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Error2002.png)
+[Recuperacion](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/mariadb/Recuperacion%20del%20error.png)
