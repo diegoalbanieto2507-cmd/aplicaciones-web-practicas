@@ -54,4 +54,21 @@ Por mayor privacidad
 
 ## APARTADO 5
 
- [**Captura de las pantallas 3 y 5 (con la contraseña tapada) y del escritorio de WordPress una vez dentro.**]()
+ [**Captura de las pantallas 3 y 5 (con la contraseña tapada) y del escritorio de WordPress una vez dentro.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Inicio-sesion-wordpress.png)
+
+**¿Qué partes de la instalación has hecho en la terminal y cuáles en el navegador? ¿Por qué el servidor no necesita tener interfaz gráfica?** 
+
+En la terminal he descargado los archivos de wordpress y en el navegador solamente hay que poner la ip e iniciar sesión
+
+## APARTADO 6
+
+[**Captura de la entrada publicada en la web y del resultado de SHOW TABLES.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/TABLA_ShowTables.png)
+
+**¿Dónde guarda WordPress las entradas que escribes: en ficheros del servidor o en la base de datos? ¿Cómo lo has comprobado?**
+
+En la base de datos ya que lo almacena y busca que esté correctamente
+
+## APARTADO 7
+
+[**Captura de las dos líneas dentro de wp-config.php y del resultado de php -l.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/CAP_APARTADO7.png)
+
