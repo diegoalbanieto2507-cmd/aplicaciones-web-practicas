@@ -72,3 +72,15 @@ En la base de datos ya que lo almacena y busca que esté correctamente
 
 [**Captura de las dos líneas dentro de wp-config.php y del resultado de php -l.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/CAP_APARTADO7.png)
 
+## APARTADO 8
+
+### APARTADO 8.2
+
+[Captura de la configuración de Apache, de la dirección "bonita" de una entrada y del tamaño máximo de subida.](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Inicio-sesion-wordpress.png)
+
+**¿Por qué las direcciones "bonitas" dan error 404 si Apache no tiene permitido leer el fichero .htaccess?**
+
+Porque no tiene internet
+
+## APARTADO 9
+
