@@ -26,3 +26,32 @@ Porque solo hay un sitio activo
 
 ## APARTADO 3
 [**Captura de las tres órdenes (sin la contraseña a la vista) y de la entrada con wp_user.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/cap_Apartado3.png)
+
+**¿Por qué crees que WordPress usa su propio usuario wp_user con permiso solo sobre su base y no el usuario root de MariaDB?**
+
+Por mayor privacidad
+
+## APARTADO 4
+
+### APARTADO 4.2
+
+**Explica qué hace cada uno de los comandos que acabas de ejecutar.**
+
+1. **Sudo apt install wget -y:** Descarga archivos
+2. **cd /tmp:** Entra al tmp
+3. **wget https://wordpress.or/latest.tar.gz** Descarga archivos de wordpress
+   
+1. **ls wordpress:** Ve el contenido de wordpress
+2. **sudo rm /var/www/html/index.html**
+3. **sudo cp -a /tmp/wordpress/. /var/www/html/**
+4. **rm -r /tmp/wordpress /tmp/latest.tar.gz**
+5. **ls /var/www/html**
+   Mete a wordpress en /var/www/html
+
+### APARTADO 4.3
+
+[**Captura de la carpeta de WordPress y de sus permisos.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/permisos_y_carpeta_wordpress_4.3.png)
+
+## APARTADO 5
+
+ [**Captura de las pantallas 3 y 5 (con la contraseña tapada) y del escritorio de WordPress una vez dentro.**]()
