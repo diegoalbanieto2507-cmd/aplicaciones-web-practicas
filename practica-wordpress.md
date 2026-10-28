@@ -4,7 +4,7 @@
 
 ### APARTADO 1.3
 
-[**Captura de la conexión SSH y del resultado de los dos comandos.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/conexi%C3%B3n.ssh)
+[**Captura de la conexión SSH y del resultado de los dos comandos.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/conexion-ssh.png)
 
 **¿Qué dos "puertas" (programas y puertos) usas para trabajar con el servidor en esta práctica y para qué sirve cada una?**
 
