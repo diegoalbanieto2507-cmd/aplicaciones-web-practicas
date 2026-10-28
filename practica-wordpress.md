@@ -91,4 +91,5 @@ Porque no tiene internet
 **Cuando WordPress muestra "Error al establecer una conexión con la base de datos", ¿qué dos cosas comprobarías y en qué orden?**
 
 1.La ip
+
 2.El ubuntu server
