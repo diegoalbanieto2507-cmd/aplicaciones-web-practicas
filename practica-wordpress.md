@@ -76,7 +76,7 @@ En la base de datos ya que lo almacena y busca que esté correctamente
 
 ### APARTADO 8.2
 
-[Captura de la configuración de Apache, de la dirección "bonita" de una entrada y del tamaño máximo de subida.](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Inicio-sesion-wordpress.png)
+[**Captura de la configuración de Apache, de la dirección "bonita" de una entrada y del tamaño máximo de subida.**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Inicio-sesion-wordpress.png)
 
 **¿Por qué las direcciones "bonitas" dan error 404 si Apache no tiene permitido leer el fichero .htaccess?**
 
@@ -84,3 +84,11 @@ Porque no tiene internet
 
 ## APARTADO 9
 
+[RECUPERACION](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Recuperacion_9png)
+
+[ERROR](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Recuperacion_9png)
+
+**Cuando WordPress muestra "Error al establecer una conexión con la base de datos", ¿qué dos cosas comprobarías y en qué orden?**
+
+1.La ip
+2.El ubuntu server
