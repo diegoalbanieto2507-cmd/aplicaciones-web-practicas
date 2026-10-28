@@ -86,7 +86,7 @@ Porque no tiene internet
 
 [**RECUPERACION**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Recuperacion_9.png)
 
-[**ERROR**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Recuperacion_9.png)
+[**ERROR**](https://github.com/diegoalbanieto2507-cmd/aplicaciones-web-practicas/blob/main/carpeta-wordpress/Error_9.png)
 
 **Cuando WordPress muestra "Error al establecer una conexión con la base de datos", ¿qué dos cosas comprobarías y en qué orden?**
 
